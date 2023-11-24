@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/website-practice/static/css/main.4a771525.css",
+    "main.js": "/website-practice/static/js/main.ef65bb61.js",
+    "static/js/787.c6b142b9.chunk.js": "/website-practice/static/js/787.c6b142b9.chunk.js",
+    "static/media/teens-swimming.jpeg": "/website-practice/static/media/teens-swimming.3b661f29d928246a0a01.jpeg",
+    "index.html": "/website-practice/index.html",
+    "main.4a771525.css.map": "/website-practice/static/css/main.4a771525.css.map",
+    "main.ef65bb61.js.map": "/website-practice/static/js/main.ef65bb61.js.map",
+    "787.c6b142b9.chunk.js.map": "/website-practice/static/js/787.c6b142b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a771525.css",
+    "static/js/main.ef65bb61.js"
+  ]
+}
